@@ -13,7 +13,7 @@ A pytorch implementation of [Tacotron: A Fully End-to-End Text-To-Speech Synthes
    	```
 
 ## Data
-I used LJSpeech dataset which consists of pairs of text script and wav files. The complete dataset (13,100 pairs) can be downloaded [here](https://keithito.com/LJ-Speech-Dataset/). I refered https://github.com/keithito/tacotron for the preprocessing code.
+I used LJSpeech dataset which consists of pairs of text script and wav files. The complete dataset (13,100 pairs) can be downloaded [here](https://keithito.com/LJ-Speech-Dataset/). I referred https://github.com/keithito/tacotron for the preprocessing code.
 
 ## File description
   * `hyperparams.py` includes all hyper parameters that are needed.
