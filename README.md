@@ -34,4 +34,6 @@ I used LJSpeech dataset which consists of pairs of text script and wav files. Th
 ## Reference
   * Keith ito: https://github.com/keithito/tacotron
 
-## Notes
+## Comments
+  * Any comments for the codes are always welcome.
+
