@@ -55,7 +55,7 @@ def main(args):
             f.write(wav)
 
         f.close()
-        print("save wav file at step %d ..." % i+1)
+        print("save wav file at step %d ..." % (i+1))
 
 def generate(model, text):
 

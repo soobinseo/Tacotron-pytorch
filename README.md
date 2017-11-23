@@ -31,6 +31,9 @@ I used LJSpeech dataset which consists of pairs of text script and wav files. Th
 ## Generate TTS wav file
   * STEP 1. Run `synthesis.py`. Make sure the restore step. 
 
+## Samples
+  * You can check the generated samples in 'samples/' directory. Training step was only 60K, so the performance is not good yet.
+
 ## Reference
   * Keith ito: https://github.com/keithito/tacotron
 
